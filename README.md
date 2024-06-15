@@ -3,7 +3,7 @@
 requirements softwares install apt
 
 ### create list
-    apt-mark showmanual > pacotes_instalados_manual.txt
+    apt-mark showmanual > requirements_apt.txt
 
 
 ### install with sh
