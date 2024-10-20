@@ -2,6 +2,8 @@
 
 sudo apt update
 
+sudo apt install code
+
 software_list=(
     "apache2"
     "apache2-bin"
