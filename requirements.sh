@@ -2,7 +2,7 @@
 
 sudo apt update
 
-sudo apt install code
+sudo snap install code --classic
 
 software_list=(
     "apache2"
