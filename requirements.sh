@@ -3,6 +3,10 @@
 sudo apt update
 
 sudo snap install code --classic
+sudo add-apt-repository ppa:cappelikan/ppa
+sudo apt update
+sudo apt install mainline
+
 
 software_list=(
     "apache2"
