@@ -4,7 +4,7 @@ sudo apt update
 
 sudo snap install code --classic
 sudo add-apt-repository ppa:cappelikan/ppa
-sudo apt update
+sudo apt install tor torbrowser-launcher -y
 sudo apt install mainline
 
 
