@@ -154,6 +154,7 @@ software_list=(
     "whois"
     "wireshark"
     "wpasupplicant"
+    "kdenlive"
 )
 
 # Função para instalar pacotes
