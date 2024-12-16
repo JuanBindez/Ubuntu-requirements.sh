@@ -9,6 +9,7 @@ sudo apt install mainline
 
 
 software_list=(
+    "stellarium"
     "apache2"
     "apache2-bin"
     "apache2-data"
