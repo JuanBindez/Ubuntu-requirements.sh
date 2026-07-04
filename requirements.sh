@@ -156,6 +156,7 @@ software_list=(
     "wireshark"
     "wpasupplicant"
     "kdenlive"
+    "flameshot"
 )
 
 # Função para instalar pacotes
