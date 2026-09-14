@@ -157,6 +157,7 @@ software_list=(
     "wpasupplicant"
     "kdenlive"
     "flameshot"
+    "virtualbox virtualbox-ext-pack"
 )
 
 # Função para instalar pacotes
