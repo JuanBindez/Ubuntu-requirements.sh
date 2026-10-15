@@ -158,6 +158,7 @@ software_list=(
     "kdenlive"
     "flameshot"
     "virtualbox virtualbox-ext-pack"
+    "parted"
 )
 
 # Função para instalar pacotes
